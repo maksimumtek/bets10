@@ -10,11 +10,14 @@ Skor tahminleri, istikbal gol tahminleri, ilk yarı ve ikinci yarı tahminleri v
 Bunun için yalnızca siteye giriş yaptıktan sonra ‚Hesap Açın’ butonuna tıklayarak ilk işlemi yapmak. Kayıtlı bir birey şekilde siteye giriş yapmanızla birlikte ilk incelemelerinizi ve değerlendirmenizi yapabilirsiniz. Biz burada Bets10’un canlı bahis sunumuna yoğunlaşarak bonus, nakit işlemleri ya da güvenlik gibi konulara da değineceğiz. 
 
 http://bets10.giris.org
-http://bets10.giris.org/oranlar
-http://bets10.giris.org/bonuslar
-http://bets10.giris.org/sikayetler
-http://bets10.giris.org/yeni-giris-adresi
-http://bets10.giris.org/para-yatirma
-http://bets10.giris.org/para-cekme
-http://bets10.giris.org/yorumlar
-http://bets10.giris.org/mobil
+<h3 style="text-align: justify;">Bets10 Hakkındaki Diğer Konular</h3>
+<ul>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/oranlar">Bets10 Oranlar</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/bonuslar">Bets10 Bonus Seçenekleri</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/sikayetler">Bets10 Şikayetler</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/yeni-giris-adresi">Bets10 Yeni Giriş Adresi</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/para-yatirma">Bets10 Para Yatırma</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/para-cekme">Bets10 Para Çekme</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/yorumlar">Bets10 Yorumlar</a></strong></li>
+<li style="text-align: justify;"><strong><a href="http://bets10.giris.org/mobil">Bets10 Mobil Giriş</a></strong></li>
+</ul>
